@@ -1,7 +1,10 @@
 .encabezado{
     
-    background-color: rgb(131, 1, 253);
+    /*background-color: rgb(1, 119, 253);*/
     display: flex;
     justify-content: center;
 
+}
+h5{
+    text-align: center;
 }
